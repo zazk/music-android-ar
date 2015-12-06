@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/vencedor_black_op80"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:clickable="true">
+
+    <LinearLayout
+        android:id="@+id/llTop"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginLeft="32dp"
+        android:layout_marginRight="32dp"
+        android:layout_marginBottom="16dp"
+        android:orientation="vertical"
+        android:layout_above="@+id/llBottomPart">
+
+        <ImageView
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:layout_marginBottom="16dp"
+            android:layout_gravity="center"
+            android:src="@drawable/ico_cerrar_ligthbox"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="¡Felicitaciones a todos los ganadores!"
+            android:gravity="center"
+            android:textColor="@color/vencedor_mustard_yellow"
+            android:textSize="25sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Las oportunidades de escribir nuevas historias en familia, ya tienen dueño."
+            android:textColor="@color/white"
+            android:gravity="center"
+            android:layout_marginTop="16dp"
+            android:textSize="16sp"/>
+
+        <LinearLayout
+            android:id="@+id/llBottom"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingTop="32dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="19sp"
+                android:layout_gravity="center"
+                android:textColor="@color/vencedor_mustard_yellow"
+                android:gravity="center"
+                android:text="Viaje a Disney"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:layout_gravity="center"
+                android:textColor="@color/vencedor_mustard_yellow"
+                android:gravity="center"
+                android:layout_marginBottom="16dp"
+                android:text="Silvia Angulo"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="19sp"
+                android:layout_gravity="center"
+                android:textColor="@color/vencedor_mustard_yellow"
+                android:gravity="center"
+                android:text="Viaje a Disney"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:layout_gravity="center"
+                android:textColor="@color/vencedor_mustard_yellow"
+                android:gravity="center"
+                android:layout_marginBottom="16dp"
+                android:text="Silvia Angulo"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="19sp"
+                android:layout_gravity="center"
+                android:textColor="@color/vencedor_mustard_yellow"
+                android:gravity="center"
+                android:text="Viaje a Disney"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:layout_gravity="center"
+                android:textColor="@color/vencedor_mustard_yellow"
+                android:gravity="center"
+                android:layout_marginBottom="16dp"
+                android:text="Silvia Angulo"/>
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+
+</LinearLayout>

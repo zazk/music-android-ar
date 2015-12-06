@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="color_primary">#009BC3</color>
+    <color name="color_primary_dark">#009BC3</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="blue_facebook">#26579A</color>
+
+    <color name="vencedor_light_blue">#009BC3</color>
+    <color name="vencedor_mustard_yellow">#FFD102</color>
+    <color name="vencedor_skin_background">#F7F1D9</color>
+    <color name="vencedor_green_gray">#827640</color>
+    <color name="vencedor_item_1">#6628FE</color>
+    <color name="vencedor_item_2">#3AB7A5</color>
+    <color name="vencedor_item_3">#BC44B5</color>
+    <color name="vencedor_item_4">#EFB200</color>
+    <color name="vencedor_item_5">#6B8997</color>
+    <color name="vencedor_item_6">#F85147</color>
+    <color name="vencedor_item_7">#108BEC</color>
+    <color name="vencedor_item_8">#57AC3F</color>
+
+
+    <color name="vencedor_item_1_active">#7B4BFF</color>
+    <color name="vencedor_item_2_active">#132d28</color>
+    <color name="vencedor_item_3_active">#2d142c</color>
+    <color name="vencedor_item_4_active">#2d2500</color>
+    <color name="vencedor_item_5_active">#2a2c2d</color>
+    <color name="vencedor_item_6_active">#2e2321</color>
+    <color name="vencedor_item_7_active">#20282d</color>
+    <color name="vencedor_item_8_active">#262d24</color>
+
+    <color name="vencedor_premio_impar">#E9E7F2</color>
+    <color name="vencedor_premio_par">#F9F9FB</color>
+    <color name="vencedor_black_op80">#CC000000</color>
+    <color name="vencedor_light_sky_blue">#DBEDFB</color>
+    <color name="vencedor_lightblue_grey">#EEEEEE</color>
+    <color name="vencedor_lightblue_op80">#CC009BC3</color>
+    <color name="vencedor_blue">#217DE2</color>
+    <color name="vencedor_grey">#BFBFBF</color>
+    <color name="vencedor_grey_op70">#B3E9E7F2</color>
+
+</resources>

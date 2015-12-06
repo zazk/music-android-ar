@@ -1,0 +1,187 @@
+<resources>
+    <string name="app_name">Historias de Familias</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="o_por_text">............................o por............................</string>
+    <string name="label_insert_name">Nombre completo</string>
+    <string name="label_insert_email">Correo electrónico</string>
+    <string name="label_insert_password">Contraseña</string>
+    <string name="label_insert_phonenumber">Teléfono</string>
+    <string name="label_terms">Acepto</string>
+    <string name="label_terms2">términos y condiciones</string>
+    <string name="label_login">Iniciar Sesión</string>
+    <string name="label_login_facebook">Ingresar con Facebook</string>
+    <string name="facebook_app_id">875056762586679</string>
+    <string name="label_forgot_password">¿Olvidó su Contraseña?</string>
+    <string name="label_name">Nombre Completo</string>
+    <string name="label_email">Correo Electrónico</string>
+    <string name="label_password">Contraseña</string>
+    <string name="label_confirm_password">Confirmar Contraseña</string>
+    <string name="label_phonenumber">Teléfono</string>
+    <string name="label_signup">Registrarme</string>
+    <string name="label_remember">¿Olvidó su contraseña?</string>
+    <string name="label_continues_scanning">Seguir Escaneando</string>
+    <string name="label_signup_facebook">Registrarme con Facebook</string>
+    <string name="label_song_record">Ocho historias, ocho canciones.\n¡Escúchalas y completa la lista!</string>
+    <string name="label_prize">Participa del sorteo de un viaje familiar a Disney, Riviera Maya o Punta Sal. Para que juntos sigan escribiendo más historias de familia.</string>
+    <string name="label_winners">Felicitaciones a nuestros ganadores, se les contactará para que puedan reclamar sus premios.</string>
+    <string name="label_tutorial_1"> <![CDATA[ Realiza un recorrido rápido<br> para aprender a jugar y<br> desbloquear canciones<br> de <b><font color=#FFD102>Historias de Familias.</b>]]> </string>
+    <string name="label_tutorial_2"><![CDATA[ Busca los avisos que tienen las Historias<br> de Familias, el primero está en la web<br> <b><font color=#FFD102>www.historiasdefamilias.pe/juega.</b><br> El resto, los podrás encontrar en<br> diarios, revistas o en la calle.]]></string>
+    <string name="label_tutorial_3"><![CDATA[ Coloca tu teléfono sobre la primera<br> casa y mantenla hasta que reconozca<br> la primera estrofa.]]></string>
+    <string name="label_tutorial_4"><![CDATA[ Sigue el recorrido de la gráfica,<br> y escanea las siguientes casas<br> en orden para desbloquear<br> toda la canción.]]></string>
+    <string name="label_tutorial_5"><![CDATA[ Para participar por un viaje a<br> <b>Disney, Punta Cana o Punta Sal</b>,<br> escanea la primera canción. Mientras<br> más canciones escanees, más<br> oportunidades tienes de ganar.]]></string>
+    <string name="label_help">Encontrarás esta Ayuda siempre en la parte superior derecha con el icono :</string>
+    <string name="label_hurtado_game">Para acumular más puntos y multiplicar tus opciones de ganar, revisa la revista “Somos” el sábado 19/09 y conoce la historia de la familia Ludeña.</string>
+    <string name="label_tasaico_game_welcome">Asegúrate de visitar www.historiasdefamilias.pe/juega para que puedas escanear el primer aviso de la primera familia.</string>
+    <string name="label_tasaico_playing_1">Coloca la casa dentro del circulo</string>
+    <string name="label_tasaico_playing_2">Coloca la siguiente casa dentro del circulo y espera el reconocimiento</string>
+    <string name="label_tasaico_playing_3">¡Así!\nEspera hasta el final</string>
+    <string name="label_tasaico_playing_4">Un poquito más</string>
+    <string name="label_tasaico_playing_5">Un poquito más</string>
+    <string name="label_tasaico_playing_6">Perfecto</string>
+    <string name="label_tasaico_unlock">Desbloqueaste la estrofa\nescanea la siguiente casa</string>
+    <string name="label_tasaico_song_lyrics">Esta es la historia del clan de los Ludueña\n\n y de la casa donde dejaron huella\n\n en los 70 recibieron</string>
+    <string name="label_tasaico_exit_message">Puedes seguir ganando puntos compartiendo las canciones o la aplicación en redes sociales.</string>
+    <string name="label_tasaico_points">Terminaste el juego, tienes todas las canciones disponibles.</string>
+    <string name="label_tasaico_points_share">Puedes seguir ganando puntos\ncompartiendo las canciones\no la aplicación en\nredes sociales.</string>
+    <string name="label_reminder">Ya pasaron 5 días desde la última vez que jugaste. No pierdas la oportunidad de acumular más puntos para ganar un viaje en familia a Disney, Punta Cana o Punta Sal y escribir juntos, más historias de familias.</string>
+
+    <string name="label_info_lvl1"><![CDATA[ Asegúrate de visitar<br><b>www.historiasdefamilias.pe/juega</b><br>para que puedas escanear<br> el primer aviso de la<br>primera familia.]]></string>
+    <string name="label_info_lvl2"><![CDATA[ <b>Asegúrate de buscar<br>esta historia en:</b><br>El Comercio el 15/09,<br>Trome el 17/09,<br>La Hora de Piura y<br>La Industria de Trujillo el 20/09.]]></string>
+    <string name="label_info_lvl3"><![CDATA[ <b>Asegúrate de buscar<br>esta historia en:</b><br>Trome + Mujer el 24/09,<br>Ellos &amp; Ellas el 01/10,<br>Somos el 03/10 y<br>Gisela el 05/10.]]></string>
+    <string name="label_info_lvl4"><![CDATA[ <b>Asegúrate de buscar<br>esta historia en:</b><br>Ellos &amp; Ellas el 17/09,<br>Somos el 19/09,<br>Correo de Arequipa el 21/09,<br>Publimetro el 22/09,<br>La Industria de Trujillo el 27/09.]]></string>
+    <string name="label_info_lvl5"><![CDATA[ <b>Asegúrate de buscar<br>esta historia en:</b><br>Correo de Huancayo el 21/09,<br>Trome el 01/10,<br>Ellos &amp; Ellas el 07/10,<br>Somos el 10/10,<br>Industria de Trujillo el 11/10.]]></string>
+    <string name="label_info_lvl6"><![CDATA[ <b>Asegúrate de buscar<br>esta historia en:</b><br>La Hora de Piura el 04/10,<br>Correo de Arequipa y Huancayo el 05/10,<br>Publimetro el 07/10<br>y El Comercio el 12/10.]]></string>
+    <string name="label_info_lvl7"><![CDATA[ <b>Asegúrate de buscar<br>esta historia en:</b><br>Somos el 26/09,<br>La Hora de Piura el 27/09,<br>Industria de Trujillo el 04/10<br>y Correo de Arequipa el 12/10. ]]></string>
+    <string name="label_info_lvl8"><![CDATA[ <b>Asegúrate de buscar<br>esta historia en:</b><br>El Comercio, Correo de Arequipa<br>y Huancayo el 28/09 y<br>La Hora de Piura el 11/10.]]></string>
+
+    <string name="label_title_song_1">"El Restaurant"</string>
+    <string name="label_title_song_2">"Los Quispe"</string>
+    <string name="label_title_song_3">"La Casa de Gloria"</string>
+    <string name="label_title_song_4">"Los Ebanistas"</string>
+    <string name="label_title_song_5">"El Circo de los Roque"</string>
+    <string name="label_title_song_6">"La peña de Don Porfirio"</string>
+    <string name="label_title_song_7">"Cancion de Anacé"</string>
+    <string name="label_title_song_8">"Pequeño Refugio"</string>
+
+    <string name="email_signup">Ingresar con correo</string>
+
+    <string-array name="label_title_song">
+        <item>@string/label_title_song_1</item>
+        <item>@string/label_title_song_2</item>
+        <item>@string/label_title_song_3</item>
+        <item>@string/label_title_song_4</item>
+        <item>@string/label_title_song_5</item>
+        <item>@string/label_title_song_6</item>
+        <item>@string/label_title_song_7</item>
+        <item>@string/label_title_song_8</item>
+    </string-array>
+
+    <string-array name="label_info">
+        <item>@string/label_info_lvl1</item>
+        <item>@string/label_info_lvl2</item>
+        <item>@string/label_info_lvl3</item>
+        <item>@string/label_info_lvl4</item>
+        <item>@string/label_info_lvl5</item>
+        <item>@string/label_info_lvl6</item>
+        <item>@string/label_info_lvl7</item>
+        <item>@string/label_info_lvl8</item>
+    </string-array>
+
+
+    <string-array name="family_image">
+        <item>@drawable/fot_ludena</item>
+        <item>@drawable/fot_quispe</item>
+        <item>@drawable/fot_leon</item>
+        <item>@drawable/fot_cesar</item>
+        <item>@drawable/fot_roque</item>
+        <item>@drawable/fot_vasquez</item>
+        <item>@drawable/fot_carrillo</item>
+        <item>@drawable/fot_proleon</item>
+    </string-array>
+
+    <string-array name="tutorial_text">
+        <item>@string/label_tutorial_1</item>
+        <item>@string/label_tutorial_2</item>
+        <item>@string/label_tutorial_3</item>
+        <item>@string/label_tutorial_4</item>
+        <item>@string/label_tutorial_5</item>
+    </string-array>
+
+    <string-array name="family_colors">
+        <item>@color/vencedor_item_1_active</item>
+        <item>@color/vencedor_item_2_active</item>
+        <item>@color/vencedor_item_3_active</item>
+        <item>@color/vencedor_item_4_active</item>
+        <item>@color/vencedor_item_5_active</item>
+        <item>@color/vencedor_item_6_active</item>
+        <item>@color/vencedor_item_7_active</item>
+        <item>@color/vencedor_item_8_active</item>
+    </string-array>
+
+    <string-array name="family_colors_active">
+        <item>@color/vencedor_item_1</item>
+        <item>@color/vencedor_item_2</item>
+        <item>@color/vencedor_item_3</item>
+        <item>@color/vencedor_item_4</item>
+        <item>@color/vencedor_item_5</item>
+        <item>@color/vencedor_item_6</item>
+        <item>@color/vencedor_item_7</item>
+        <item>@color/vencedor_item_8</item>
+    </string-array>
+
+
+
+    <string-array name="navigation_options">
+        <item>Juega</item>
+<!--        <item>Mi Perfil</item>
+        <item>Historias de Familias</item>-->
+        <item>Ranking</item>
+        <item>Premios</item>
+        <item>Ganadores</item>
+        <item>Cerrar Sesion</item>
+    </string-array>
+
+    <string-array name="prize_name">
+        <item>Disney</item>
+        <item>Punta Cana</item>
+        <item>Punta Sal</item>
+    </string-array>
+
+    <string-array name="prize_description">
+        <item>Una historia de magia y diversión familiar en, nada más y nada menos que Magic Kingdom.</item>
+        <item>Un historia de familia llena de Sol, playa y lo mejor de la rivera mexicana.</item>
+        <item>La foto familiar con el mejor de los atardeceres del norte de nuestro país.</item>
+    </string-array>
+
+    <string-array name="prize_image">
+        <item>@drawable/viaje_disney</item>
+        <item>@drawable/viaje_rivera_maya</item>
+        <item>@drawable/viaje_puntasal</item>
+    </string-array>
+
+    <string-array name="menu_images">
+        <item>@drawable/ico_juega</item>
+<!--        <item>@drawable/ico_perfil</item>
+        <item>@drawable/ico_historias</item>-->
+        <item>@drawable/ico_ranking</item>
+        <item>@drawable/ico_premio</item>
+        <item>@drawable/ico_ganadores</item>
+        <item>@drawable/ico_cerrar</item>
+    </string-array>
+
+    <string-array name="ranking_array">
+        <item>Global</item>
+        <item>Amigos</item>
+    </string-array>
+
+    <string-array name="grid_images">
+        <item>@drawable/test_image_grid</item>
+        <item>@drawable/test_image_grid2</item>
+        <item>@drawable/test_image_grid</item>
+        <item>@drawable/test_image_grid2</item>
+        <item>@drawable/test_image_grid</item>
+        <item>@drawable/test_image_grid2</item>
+    </string-array>
+</resources>

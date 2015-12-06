@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:clickable="true">
+
+    <include
+        android:id="@+id/custom_toolbar"
+        layout="@layout/custom_toolbar"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_horizontal"
+        android:layout_gravity="center_horizontal"
+        android:orientation="horizontal">
+
+        <WebView
+            android:id="@+id/wvRanking"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+        <!--<com.astuetz.PagerSlidingTabStrip
+            android:id="@+id/tabs"
+            android:layout_width="match_parent"
+            android:foregroundGravity="center_horizontal"
+            app:pstsDividerColor="@android:color/transparent"
+            app:pstsUnderlineColor="@android:color/transparent"
+            app:pstsTextAllCaps="true"
+            app:pstsIndicatorColor="@color/vencedor_light_blue"
+            android:layout_height="48dp"
+            app:pstsShouldExpand="true"/>-->
+
+    </LinearLayout>
+
+<!--    <android.support.v4.view.ViewPager
+        android:id="@+id/pager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>-->
+
+</LinearLayout>
